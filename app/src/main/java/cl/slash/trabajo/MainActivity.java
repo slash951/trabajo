@@ -31,7 +31,7 @@ Button btXd;
         DatabaseReference productosRef = database.getReference("productos");
 
 
-
+ btXd=(Button) findViewById(R.id.btXd);
 
 
 

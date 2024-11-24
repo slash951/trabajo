@@ -1,6 +1,7 @@
 package cl.slash.trabajo;
 
 import android.os.Bundle;
+import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
 private FirebaseDatabase database;
 private DatabaseReference myref;
-
+Button btXd;
 
 
     protected void onCreate(Bundle savedInstanceState) {

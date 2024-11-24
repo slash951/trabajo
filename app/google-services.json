@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "451356187320",
+    "firebase_url": "https://certamen-final-default-rtdb.firebaseio.com",
+    "project_id": "certamen-final",
+    "storage_bucket": "certamen-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451356187320:android:55a7eb54097db664ec724d",
+        "android_client_info": {
+          "package_name": "cl.slash.trabajo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIco6Up4y6jVACUIqUKB22O56DBOKF8rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
